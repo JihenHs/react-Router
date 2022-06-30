@@ -1,0 +1,14 @@
+.movies-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+   
+	color: #ffffff;
+    background-color: #537895;
+    background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
+    /* align-items: space-between; */
+}
+
+
+
